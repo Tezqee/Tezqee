@@ -1,4 +1,4 @@
-**<h1 align="center">Hi 👋, I'm Tezqee</h1>
+<h1 align="center">Hi 👋, I'm Tezqee</h1>
 <h3 align="center">🚀 Web3 Developer | Builder | Explorer</h3>
 
 <p align="center">
@@ -52,4 +52,4 @@
 
 <p align="center">
   ⭐ Don't forget to follow & star some repositories!
-</p>**
+</p>
