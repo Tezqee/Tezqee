@@ -39,7 +39,7 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Discord-Tezqee-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-Soon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-Tezqee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
